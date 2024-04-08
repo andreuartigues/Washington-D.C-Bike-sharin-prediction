@@ -1,1 +1,1 @@
-This work here aimed to study the bike sharing service in Washington D.C for which I made an extensive analysis and prediction task seen in Group1_Notebook. After that, the conclusions were presented in front of an audience with help of a Streamlit application
+#### This work here aimed to study the bike sharing service in Washington D.C for which I made an extensive analysis and prediction task seen in Group1_Notebook. After that, the conclusions were presented in front of an audience with help of a Streamlit application
